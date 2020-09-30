@@ -53,7 +53,7 @@
     "After you make any desired edits you feel would better improve the program, make sure to \n",
     "push the updates to the repository and our team will evaluate the edits and determine if they would improve the program.\n",
     "\n",
-    "We appreciate and encourage any support for the program."
+    "We appreciate and encourage any support for the program ."
    ]
   },
   {
